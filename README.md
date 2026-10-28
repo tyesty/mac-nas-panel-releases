@@ -1,6 +1,6 @@
 # mac-nas-panel releases
 
-Installer packages for [mac-nas-panel](https://github.com/tyesty/mac-nas-panel), a web interface that
+Installer packages for mac-nas-panel, a web interface that
 turns a Mac into a file server: shares, users, NFS exports, services, backups and shared links.
 
 ## Installing
